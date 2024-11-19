@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @AminaMuradli
+- 👀 I’m interested in Data Science...
+- 🌱 I’m currently learning  more information different courses from Coursera,Udemy and etc...
+- 💞️ I’m looking to collaborate on projects ...
+- 😄 Pronouns: .She,her..
+<!---
+AminaMuradli/AminaMuradli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
